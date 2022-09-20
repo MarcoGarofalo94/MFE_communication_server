@@ -1,0 +1,1 @@
+[{"id":"mf1","listening":["e3"],"emitting":["e1"],"hash":"a47c128d6dad442b388bd0608e814613"},{"id":"mf2","listening":["e1","e3"],"emitting":["e2"],"hash":"7ffa8dfb71825b7e30fe6be155a5e5eb"},{"id":"mf3","listening":[],"emitting":["e3"],"hash":"8aa5ea1ad7c7e18b78ab1e89a40e2ee1"}]
